@@ -1,0 +1,57 @@
+#container{ width: 635px;
+margin: 0 auto;
+}
+
+body{
+	margin:0;
+	padding:0;
+	color: #7f8c8d;
+background: url(http://images.all-free-download.com/images/graphicthumb/black_paper_floral_seamless_pattern_vector_583192.jpg) repeat top left;
+font-family: Arial, Helvetica, sans-serif;}
+
+.divison{
+	background-color: #ecf0f2;
+	border: 1px solid #95a5a6;
+	margin: 2em 0;
+	padding: 3em;
+	border-radius: 0.3em;
+	box-shadow: 0 0 0 1px rgba(14,41,57,0,12) 0 2px 5px rgba(14,41,57,0.44) inset 0 -1px 2px rgba(14,41,57,0.15);
+	
+}
+.centertxt{ text-align: center;
+	background: url(https://images.freecreatives.com/wp-content/uploads/2016/02/free-vector-classical-traditional-floral-pattern-background.jpg) repeat center;
+	border: 1px solid #95a5a6;
+	margin: 2em 0;
+	padding: 3em}
+
+label{ display: block;
+margin-left: 6em;
+margin-top: 2em;}
+
+input, select, textarea{ width: 300px;
+padding: 1em 0,3em;
+margin-left: 2em;
+color: #7f8c8d;
+border: 1px #95a5a6 solid;
+border-radius: 0.2em;}
+
+.lesswidth{ width: 2.4em;
+}
+
+.extramargin{ margin-left: 3.7em;}
+
+.aligntop{ vertical-align: top;
+margin-left: 1.4em;}
+
+.extrapadding{ padding-left: 9em;
+color: concrete;
+font-size: 0.7em;
+}
+
+.button{ width: 300px;
+padding: 1em 0,3em;
+margin-left: 2em;
+color: black;
+background-color: #2ecc71;
+border: 1px #95a5a6 solid;
+border-radius: 0.2em;}
